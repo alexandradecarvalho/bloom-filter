@@ -1,6 +1,0 @@
-1 – Gestão de biblioteca que verifica se determinado livro existe no acervo (pelo nome) e se o livro está requisitado
-2 – Apoio à escrita, tipo spellchecker que indica se a palavra que foi escrita está correta ou não (se existe no dicionário)
-3 - Facebook (base de dados com dados de pessoas) que permite a pesquisa de um nome (ou outras características) na lista
-4 – Letras de músicas com uma determinada palavra ou sequência de palavras (k-gramas)
-5 – Procura de notícias num conjunto de jornais e sites de notícias online por forma a devolver uma lista de notícias com certo título
-6 - Verificação se o email veio de um endereço de email seguro ou é spam
